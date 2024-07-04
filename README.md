@@ -14,4 +14,4 @@ Welcome to the React ToDo Project! This is a simple ToDo application built with 
 
 ## Demo
 
-Check out the live demo of the project [here](https://actodo-react-k7q6mo3zc-aruns-projects-b46cdba7.vercel.app/).
+Check out the live demo of the project [here](https://actodo-react-ruby.vercel.app/).
