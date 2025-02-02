@@ -1,17 +1,28 @@
-# React ToDo Project
+# Actodo React App
 
-Welcome to the React ToDo Project! This is a simple ToDo application built with React. It allows you to manage your tasks effectively with features like adding and deleting tasks.
+## Overview
+Actodo is a simple task management application built using React and Tailwind CSS. Users can sign up, log in, and manage their daily activities efficiently.
 
-## Table of Contents
+## Live Demo
+Check out the live version of the app here: [Actodo Live](https://actodo-react-ruby.vercel.app/)
 
-- [Features](#features)
-- [Demo](#demo)
+
+## Technologies Used
+- React.js
+- Tailwind CSS
+- React Router
 
 ## Features
+- User authentication (Signup & Login)
+- Task management (Add & Delete tasks)
+- Responsive UI built with Tailwind CSS
+- React Router for navigation
 
-- **Add Tasks**: Quickly add new tasks.
-- **Delete Tasks**: Remove tasks that are no longer needed.
 
-## Demo
-
-Check out the live demo of the project [here](https://actodo-react-ruby.vercel.app/).
+## Usage
+1. Sign up for a new account.
+2. Log in with your credentials.
+   - **Username:** abc
+   - **Password:** 123
+3. Add activities to your task list.
+4. Delete tasks when completed.
